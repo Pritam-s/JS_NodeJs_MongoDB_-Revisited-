@@ -1,4 +1,5 @@
 // To run this file, open a terminal in the code editor and run --> node .\1_Modules.js
+// Visit the documentation of NodeJS for Guides and syntax documentation
 
 console.log(`(1)" Modules are considered as same as javascript libraries "`);
 
